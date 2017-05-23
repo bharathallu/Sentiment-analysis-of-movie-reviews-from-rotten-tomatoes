@@ -1,1 +1,1 @@
-# Sentiment-analysis-of-movie-reviews-from-rotten-tomatoes
+# Sentiment-analysis-of-movie-reviews
